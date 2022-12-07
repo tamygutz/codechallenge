@@ -1,2 +1,3 @@
 Hagamos un commit, 
-Esto es muy divertido  
+Esto es muy divertido
+Espero terminar el ejercicio 1  
